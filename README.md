@@ -7,7 +7,7 @@
 
 <br/>
 
-- 🔭 I’m currently working at **Kickr Technology** as a Backend Developer Intern  
+- 🔭 I’m currently working at **Kickr Technology** as a Backend Developer  
 - 🌱 I’m currently learning **System Design, DevOps, and Advanced Backend Architectures**  
 - 👨‍💻 Most of my projects are available at [GitHub](https://github.com/saqib001-github)  
 - 💬 Ask me about **MERN Stack, REST APIs, WebSockets, and Realtime Apps**  
