@@ -25,15 +25,15 @@
     </tr>
     <tr>
         <td>10th Grade</td>
-        <td>Bhai Joga Singh Public School, Meerut</td>
-        <td>CBSE</td>
-        <td>92%</td>
+        <td>CAB Inter College, Meerut Cantt.</td>
+        <td>UP</td>
+        <td>79%</td>
     </tr>
     <tr>
         <td>12th Grade</td>
-        <td>Lala Tika Ram Public School, Meerut</td>
-        <td>CBSE</td>
-        <td>96.8%</td>
+        <td>CAB Inter College, Meerut Cantt.</td>
+        <td>UP</td>
+        <td>75%</td>
     </tr>
     <tr>
         <td>B.Tech</td>
