@@ -12,7 +12,7 @@
 - 👨‍💻 Most of my projects are available at [GitHub](https://github.com/saqib001-github)  
 - 💬 Ask me about **MERN Stack, REST APIs, WebSockets, and Realtime Apps**  
 - 📫 Reach me at **saqibmohd582@gmail.com**  
-- 📄 Know more about me via my [Resume](https://drive.google.com/file/d/1iq00VZyNP3Ith-Psa4cgPerRDF4VAfuk/view?usp=sharing)  
+- 📄 Know more about me via my [Resume](https://docs.google.com/document/d/16VmOBbNGzM5V-ydIzqwfEo7zMv48uCLK/edit?usp=drive_link&ouid=112916712414969120758&rtpof=true&sd=true)  
 
 <br/>
 <div align="center">
