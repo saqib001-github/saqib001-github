@@ -1,104 +1,137 @@
-<p align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8" width="100%">
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohd+Saqib!;" />
+</h1>
 
-<h1 align="center">Hi 👋, I'm Mohd Saqib</h1>
-<h3 align="center">A Full Stack Developer passionate about solving real-world problems</h3>
+<h3 align="center">🚀 Full Stack Developer | Problem Solver | Backend Enthusiast</h3>
 
-<br/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=saqib001-github&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
-- 🔭 I’m currently working at **Kickr Technology** as a Backend Developer  
-- 🌱 I’m currently learning **System Design, DevOps, and Advanced Backend Architectures**  
-- 👨‍💻 Most of my projects are available at [GitHub](https://github.com/saqib001-github)  
-- 💬 Ask me about **MERN Stack, REST APIs, WebSockets, and Realtime Apps**  
-- 📫 Reach me at **saqibmohd582@gmail.com**  
-- 📄 Know more about me via my [Resume](https://docs.google.com/document/d/16VmOBbNGzM5V-ydIzqwfEo7zMv48uCLK/edit?usp=sharing&ouid=112916712414969120758&rtpof=true&sd=true)  
+<br>
 
-<br/>
+## 🎯 About Me
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+- 🏢 Currently working at **Kickr Technology** as a Backend Developer
+- 🌱 Learning **System Design, DevOps & Advanced Backend Architectures**
+- 💻 Passionate about building **scalable applications** and **real-time systems**
+- 🎮 Love creating **interactive applications** and **gaming platforms**
+- 💬 Ask me about **MERN Stack, REST APIs, WebSockets & Real-time Apps**
+- 📧 Reach me at **saqibmohd582@gmail.com**
+- 📄 Check out my [**Resume**](https://docs.google.com/document/d/16VmOBbNGzM5V-ydIzqwfEo7zMv48uCLK/edit?usp=sharing&ouid=112916712414969120758&rtpof=true&sd=true)
+
+<br clear="both">
+
+## 🎓 Education
+
 <div align="center">
 <table>
-    <tr>
-        <th>Qualification</th>
-        <th>Institute Name</th>
-        <th>Affiliated To</th>
-        <th>Marks/CGPA</th>
-    </tr>
-    <tr>
-        <td>10th Grade</td>
-        <td>CAB Inter College, Meerut Cantt.</td>
-        <td>UP</td>
-        <td>79%</td>
-    </tr>
-    <tr>
-        <td>12th Grade</td>
-        <td>CAB Inter College, Meerut Cantt.</td>
-        <td>UP</td>
-        <td>75%</td>
-    </tr>
-    <tr>
-        <td>B.Tech</td>
-        <td>Bharat Institute of Technology</td>
-        <td>AKTU</td>
-        <td>CGPA 7.9</td>
-    </tr>
+  <tr>
+    <th>🎓 Qualification</th>
+    <th>🏫 Institute</th>
+    <th>🔗 Affiliated To</th>
+    <th>📊 Performance</th>
+  </tr>
+  <tr>
+    <td><strong>B.Tech</strong></td>
+    <td>Bharat Institute of Technology</td>
+    <td>AKTU</td>
+    <td><strong>7.9 CGPA</strong></td>
+  </tr>
+  <tr>
+    <td><strong>12th Grade</strong></td>
+    <td>CAB Inter College, Meerut Cantt.</td>
+    <td>UP Board</td>
+    <td><strong>75%</strong></td>
+  </tr>
+  <tr>
+    <td><strong>10th Grade</strong></td>
+    <td>CAB Inter College, Meerut Cantt.</td>
+    <td>UP Board</td>
+    <td><strong>79%</strong></td>
+  </tr>
 </table>
 </div>
 
-<h1 align="center">💻 Here are some of my Projects</h1>
+<br>
 
-### Blog Application with Authentication  
-Built using React, Node.js, MongoDB, and Redux — includes user registration, login, and blog content management.
-
-### Document Editor  
-Real-time collaborative editor using Next.js, WebSockets, Clerk, and Liveblocks — supports auto-save and version control.
-
-### Ludo and Snake Game Backend  
-Built API infrastructure for user and admin roles using Node.js and Express, supporting in-game operations.
-
-### Admin Panel for Ludo & Snake  
-Designed and developed the admin interface and backend APIs to manage gameplay data and user analytics.
-
-### Candidate Test-Taking Platform  
-Frontend built with Next.js for users and admin — includes test creation, submissions, and result tracking.
-
-### Gynecologist Website Landing Page  
-Developed a responsive React-based landing page for a private client in the healthcare domain.
-
----
-
-<h1 align="center">🌐 Connect with me</h1>
-<p align="center">
-  <a href="https://www.linkedin.com/in/saqib001/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/saqib001-github" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<h1 align="center">🛠️ Languages and Tools</h1>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-</p>
-
----
+## 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqib001-github&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=saqib001-github&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saqib001-github" alt="Streak Stats" />
+
+### 📝 Blog Application with Authentication
+**Tech Stack:** React • Node.js • MongoDB • Redux  
+*Complete blog platform with user authentication, content management, and responsive design*
+
+### 📄 Real-time Document Editor
+**Tech Stack:** Next.js • WebSockets • Clerk • Liveblocks  
+*Collaborative editing platform with auto-save, version control, and real-time synchronization*
+
+### 🎮 Gaming Platform Backend
+**Tech Stack:** Node.js • Express • MongoDB  
+*Scalable API infrastructure for Ludo & Snake games with user management and admin controls*
+
+### 🎯 Candidate Test Platform
+**Tech Stack:** Next.js • React • Node.js  
+*Comprehensive testing platform with test creation, submission tracking, and analytics*
+
+### 🏥 Healthcare Landing Page
+**Tech Stack:** React • Responsive Design  
+*Professional healthcare website with modern UI/UX for gynecologist practice*
+
+</div>
+
+<br>
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,tailwind" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" />
+
+### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,git,github,figma,cpp" />
+
+</div>
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=saqib001-github&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" alt="Mohd Saqib github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqib001-github&layout=compact&hide_border=true&title_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saqib001-github&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br>
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/saqib001/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/saqib001-github" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:saqibmohd582@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
