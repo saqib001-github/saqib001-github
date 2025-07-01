@@ -76,7 +76,7 @@ Production-ready gaming backend and admin dashboard. Includes real-time game log
 **Tech Stack:** Next.js • Node.js • React • MongoDB  
 Frontend and admin panel for a test-taking system allowing custom tests, submission tracking, and result management.
 
- 🔗 [URL Shortener](https://github.com/saqib001-github/url-shortener)
+ 🔗 [URL Shortener](https://github.com/saqib001-github/url_shortner)
 **Tech Stack:** Next.js • Node.js • Prisma • PostgreSQL • Tailwind CSS  
 A minimal and efficient full-stack application to shorten long URLs, track clicks, and set custom expiration.
 
