@@ -57,31 +57,35 @@
 
 <br>
 
-## 🚀 Featured Projects
-
+ 🚀 Featured Projects
 <div align="center">
 
-### 📝 Blog Application with Authentication
-**Tech Stack:** React • Node.js • MongoDB • Redux  
-*Complete blog platform with user authentication, content management, and responsive design*
+ 📝 [Blog Application with Authentication](https://github.com/saqib001-github/blog-app)
+**Tech Stack:** React • Node.js • MongoDB • Redux • Tailwind CSS  
+A full-featured blog platform with secure user authentication, content creation, and a responsive, modern UI.
 
-### 📄 Real-time Document Editor
-**Tech Stack:** Next.js • WebSockets • Clerk • Liveblocks  
-*Collaborative editing platform with auto-save, version control, and real-time synchronization*
+ 📄 [Real-time Document Editor](https://github.com/saqib001-github/document-editor)
+**Tech Stack:** Next.js • WebSockets • Clerk • Liveblocks • Tailwind CSS  
+Google Docs–style document editor with real-time collaboration, version control, and autosave capabilities.
 
-### 🎮 Gaming Platform Backend
-**Tech Stack:** Node.js • Express • MongoDB  
-*Scalable API infrastructure for Ludo & Snake games with user management and admin controls*
+ 🎮 [Ludo & Snake Game Backend + Admin Panel](https://github.com/saqib001-github/ludo-game-backend)
+**Tech Stack:** Node.js • Express • WebSockets • Prisma • PostgreSQL • React  
+Production-ready gaming backend and admin dashboard. Includes real-time game logic, user management, and analytics with a React-powered admin interface.
 
-### 🎯 Candidate Test Platform
-**Tech Stack:** Next.js • React • Node.js  
-*Comprehensive testing platform with test creation, submission tracking, and analytics*
+ 📊 [Candidate Test Platform](https://github.com/saqib001-github/test-platform)
+**Tech Stack:** Next.js • Node.js • React • MongoDB  
+Frontend and admin panel for a test-taking system allowing custom tests, submission tracking, and result management.
 
-### 🏥 Healthcare Landing Page
-**Tech Stack:** React • Responsive Design  
-*Professional healthcare website with modern UI/UX for gynecologist practice*
+ 🔗 [URL Shortener](https://github.com/saqib001-github/url-shortener)
+**Tech Stack:** Next.js • Node.js • Prisma • PostgreSQL • Tailwind CSS  
+A minimal and efficient full-stack application to shorten long URLs, track clicks, and set custom expiration.
+
+ 🏥 [Healthcare Landing Page – yourgynac.com](https://yourgynac.com)
+**Tech Stack:** React • Tailwind CSS  
+Responsive and professional single-page website designed for a gynecology clinic client with modern UI/UX and accessible layout.
 
 </div>
+
 
 <br>
 
