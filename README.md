@@ -14,13 +14,14 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🏢 Currently working at **Kickr Technology** as a Backend Developer
-- 🌱 Learning **System Design, DevOps & Advanced Backend Architectures**
-- 💻 Passionate about building **scalable applications** and **real-time systems**
-- 🎮 Love creating **interactive applications** and **gaming platforms**
-- 💬 Ask me about **MERN Stack, REST APIs, WebSockets & Real-time Apps**
-- 📧 Reach me at **saqibmohd582@gmail.com**
-- 📄 Check out my [**Resume**](https://docs.google.com/document/d/16VmOBbNGzM5V-ydIzqwfEo7zMv48uCLK/edit?usp=sharing&ouid=112916712414969120758&rtpof=true&sd=true)
+- 🏢 Currently working at **Kickr Technology** as a Backend Developer  
+- 🌱 Learning **System Design, DevOps & Advanced Backend Architectures**  
+- 💻 Passionate about building **scalable applications** and **real-time systems**  
+- 🎮 Love creating **interactive applications** and **gaming platforms**  
+- 💬 Ask me about **MERN Stack, REST APIs, WebSockets & Real-time Apps**  
+- 📧 Reach me at **saqibmohd582@gmail.com**  
+- 📄 Check out my [**Resume**](https://docs.google.com/document/d/16VmOBbNGzM5V-ydIzqwfEo7zMv48uCLK/edit?usp=sharing&ouid=112916712414969120758&rtpof=true&sd=true)  
+- 🌐 Visit my [**Portfolio**](https://elegant-portfolio-beta.vercel.app/)
 
 <br clear="both">
 
