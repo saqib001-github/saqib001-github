@@ -21,7 +21,7 @@
 - 💬 Ask me about **MERN Stack, REST APIs, WebSockets & Real-time Apps**  
 - 📧 Reach me at **saqibmohd582@gmail.com**  
 - 📄 Check out my [**Resume**](https://docs.google.com/document/d/16VmOBbNGzM5V-ydIzqwfEo7zMv48uCLK/edit?usp=sharing&ouid=112916712414969120758&rtpof=true&sd=true)  
-- 🌐 Visit my [**Portfolio**](https://elegant-portfolio-git-terminal-c71e1d-saqib001-githubs-projects.vercel.app/)
+- 🌐 Visit my [**Portfolio**](https://terminal-portfolio-nine-sepia.vercel.app/)
 
 <br clear="both">
 
