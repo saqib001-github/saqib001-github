@@ -57,36 +57,55 @@
 </div>
 
 <br>
+## 🚀 Featured Projects
 
- 🚀 Featured Projects
-<div align="center">
+### 🪙 [Crypto Wallet Generator](https://github.com/saqib001-github/crypto-wallet-generator)
 
- 📝 [Blog Application with Authentication](https://github.com/saqib001-github/blog-app)
-**Tech Stack:** React • Node.js • MongoDB • Redux • Tailwind CSS  
-A full-featured blog platform with secure user authentication, content creation, and a responsive, modern UI.
+**Tech Stack:** Next.js • Redux Persist • ShadCN UI • Solana Web3.js • Ethers.js • bip39 • tweetnacl
+Built a dual-chain crypto wallet generator supporting Solana and Ethereum. Integrated secure HD wallet derivation from mnemonic phrases using `bip39`, `tweetnacl`, and `Ethers.js`. Leveraged Redux Persist for state management and ShadCN for a minimal, accessible UI.
+🔗 [Live Demo](https://crypto-wallet-generator-theta.vercel.app/)
 
- 📄 [Real-time Document Editor](https://github.com/saqib001-github/document-editor)
-**Tech Stack:** Next.js • WebSockets • Clerk • Liveblocks • Tailwind CSS  
-Google Docs–style document editor with real-time collaboration, version control, and autosave capabilities.
+---
 
- 🎮 [Ludo & Snake Game Backend + Admin Panel](https://github.com/saqib001-github/ludo-game-backend)
-**Tech Stack:** Node.js • Express • WebSockets • Prisma • PostgreSQL • React  
-Production-ready gaming backend and admin dashboard. Includes real-time game logic, user management, and analytics with a React-powered admin interface.
+### 📝 [Real-time Document Editor](https://github.com/saqib001-github/document-editor)
 
- 📊 [Candidate Test Platform](https://github.com/saqib001-github/test-platform)
-**Tech Stack:** Next.js • Node.js • React • MongoDB  
-Frontend and admin panel for a test-taking system allowing custom tests, submission tracking, and result management.
+**Tech Stack:** Next.js • WebSockets • Clerk • Liveblocks • Tailwind CSS
+Created a Google Docs–inspired editor with real-time multi-user collaboration, autosave, version control, and secure access control using Clerk. Achieved seamless document synchronization using Liveblocks.
 
- 🔗 [URL Shortener](https://github.com/saqib001-github/url_shortner)
-**Tech Stack:** Next.js • Node.js • Prisma • PostgreSQL • Tailwind CSS  
-A minimal and efficient full-stack application to shorten long URLs, track clicks, and set custom expiration.
+---
 
- 🏥 [Healthcare Landing Page – yourgynac.com](https://yourgynac.com)
-**Tech Stack:** React • Tailwind CSS  
-Responsive and professional single-page website designed for a gynecology clinic client with modern UI/UX and accessible layout.
+### 🎮 [Ludo & Snake Game Admin Panel](https://github.com/saqib001-github/ludo-game-backend)
 
-</div>
+**Tech Stack:** Node.js • Express • WebSockets • Prisma • PostgreSQL • React
+Built the complete backend and admin dashboard for a multiplayer game using Colyseus WebSockets. Optimized gameplay server to handle 1000+ concurrent users with RBAC, encryption, and real-time monitoring.
 
+---
+
+### 📊 [Candidate Testing Platform](https://github.com/saqib001-github/test-platform)
+
+**Tech Stack:** Next.js • Node.js • MongoDB • Express
+Developed an assessment platform with role-based admin panel, dynamic test creation, and JWT-based authentication. Improved server-side rendering for faster page loads and secure test workflows.
+
+---
+
+### 🔗 [URL Shortener](https://github.com/saqib001-github/url_shortner)
+
+**Tech Stack:** Next.js • Node.js • Prisma • PostgreSQL • Tailwind CSS • Docker • Prometheus
+Designed a scalable URL shortener with custom slugs, click analytics, and expiration support. Dockerized the service for easy deployment and added Prometheus for monitoring and observability.
+
+---
+
+### 🧠 \[Drawing App – Excalidraw Clone (WIP)]
+
+**Tech Stack:** Next.js • WebSockets • Canvas • Turborepo • PostgreSQL
+A real-time whiteboard application supporting collaborative drawing and replay features. Built with monorepo architecture using Turborepo and PostgreSQL-based persistent state sync.
+
+---
+
+### 🏥 [Healthcare Clinic Landing Page](https://yourgynac.com)
+
+**Tech Stack:** React.js • Tailwind CSS • Next.js
+Built and deployed a responsive, SEO-optimized landing page for a women’s clinic. Server-side rendering reduced FCP by 40%, contributing to a 25% increase in mobile conversions.
 
 <br>
 
